@@ -1,1 +1,2 @@
 hello world
+uprava na zkousku propojeni s githubem
